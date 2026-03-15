@@ -20,7 +20,7 @@ For a deep dive into the statistical methodologies, please view the full **[Proj
 ![Type Distribution](images/type%20distribution.png)
 
 ### Top Producing Countries
-*Analysis revealed that approximately one-third of the total content library was produced by the United States[cite: 29, 110].*
+*Analysis revealed that approximately one-third of the total content library was produced by the United States.*
 ![Country Plot](images/country%20plot.png)
 
 ### Release Year Trends
